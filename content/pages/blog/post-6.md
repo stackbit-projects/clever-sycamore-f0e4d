@@ -1,7 +1,8 @@
 ---
 title: lorem-ipsum
 date: '2021-04-20'
-categories: []
+categories:
+  - content/data/categories/category-dass228cp.json
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
