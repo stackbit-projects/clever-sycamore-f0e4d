@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+author: content/data/team/dianne-ameter.yaml
 ---
 ## Lorem ipsum
 
