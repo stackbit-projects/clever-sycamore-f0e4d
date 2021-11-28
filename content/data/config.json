@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/1.png"
+        "logo": "images/1.png",
+        "logo_alt": "123"
     },
     "footer": {
         "has_nav": true,
